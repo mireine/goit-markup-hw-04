@@ -528,10 +528,11 @@ img {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #F4F4FD;
+    color: #FFFFFF;
     max-width: 264px;
     padding-bottom: 16px;
     font-weight: 500;
+    margin-bottom: 16px;
 }
 
 .footer-right {
@@ -541,7 +542,7 @@ img {
 
 .social-links {
     display: flex;
-    gap: 12px;
+    gap: 16px; 
     padding: 0;
     margin: 0;
     list-style: none;
@@ -563,5 +564,5 @@ img {
 }
 
 .social-link:focus {
-    background-color: #404BBF;
+    background-color: #31d0aa;;
 }
