@@ -355,9 +355,10 @@ img {
     display: flex;
     flex-shrink: 0;
     align-self: flex-end;
-    padding-left: 16px;
+    
     padding-top: 8px;
     gap: 24px;
+    justify-content: center;
 }
 
 .links .social-link :hover {
@@ -374,7 +375,7 @@ img {
 
 .team-list-item-image {}
 
-.team-list-item-title {
+.team-list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -384,7 +385,7 @@ img {
     margin-bottom: 8px;
 }
 
-.team-list-item-subtitle {
+.team-list-subtitle {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
