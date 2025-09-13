@@ -361,10 +361,7 @@ img {
     justify-content: center;
 }
 
-.links .social-link :hover {
-    background-color: #31D0AA;
-}
-
+.links .social-link :hover
 .links .social-link:focus {
     background-color: #404BBF;
 }
