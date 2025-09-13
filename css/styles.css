@@ -495,14 +495,13 @@ img {
 
 .footer-container {
 
-    align-items: flex-start;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
     display: flex;
-    justify-content: space-between;
+    align-items: baseline;
+}
 
-    flex-wrap: wrap;
+.footer-left {
+    display: block;
+    margin-right: 120px;
 }
 
 .logo-footer {
@@ -532,6 +531,7 @@ img {
     color: #F4F4FD;
     max-width: 264px;
     padding-bottom: 16px;
+    font-weight: 500;
 }
 
 .footer-right {
