@@ -542,8 +542,9 @@ img {
     gap: 16px; 
     padding: 0;
     margin: 0;
-    list-style: none;}
-    
+    list-style: none;
+     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);;
+}
 
 
    
@@ -556,8 +557,8 @@ img {
     height: 40px;
     background-color: #4d5ae5;
     border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);;
-}
+    transition: background-color 0.3s;
+    
 }
 
 .social-link:hover {
