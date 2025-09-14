@@ -125,7 +125,7 @@ img {
 }
 
 
-.header-navigation-list-title.current::after {
+.header-navigation-list-title::after {
     position: absolute;
     left: 0;
     bottom: -1px;
