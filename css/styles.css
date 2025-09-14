@@ -109,6 +109,7 @@ img {
 
 
 .header-navigation-list-title {
+    color: #2E2F42;
     display: block;
     padding: 24px 0;
     font-weight: 500;
@@ -137,6 +138,9 @@ img {
     background-color: #404bbf;
 }
 
+.header-navigation-list-title:hover{
+    color: #404BBF;
+}
 
 .header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title {
     color: #2e2f42;
