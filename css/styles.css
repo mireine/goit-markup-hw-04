@@ -108,8 +108,8 @@ img {
 }
 
 .current {
-    position: relative;
-    color: #404bbf;
+   
+    
 }
 
 .header-navigation-list-title {
@@ -125,7 +125,7 @@ img {
 }
 
 
-.header-navigation-list-title::after {
+.current::after {
     position: absolute;
     left: 0;
     bottom: -1px;
