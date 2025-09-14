@@ -348,7 +348,7 @@ img {
 
 }
 
-.links .social-link {
+.links-container .social-link {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -361,7 +361,7 @@ img {
 
 }
 
-.links {
+.links-container {
     display: flex;
     flex-shrink: 0;
     align-self: flex-end;
@@ -371,12 +371,12 @@ img {
     justify-content: center;
 }
 
-.links .social-link:hover {
+.links-container .social-link:hover {
     background-color: #404bbf;
 }
 
 
-.links .social-link:focus {
+.links-container .social-link:focus {
     background-color: #404BBF;
 }
 
