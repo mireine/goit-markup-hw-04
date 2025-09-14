@@ -134,6 +134,10 @@ img {
     background-color: #404bbf;
 }
 
+.current{
+    color: #404bbf; 
+}
+
 .header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title {
     color: #2e2f42;
 }
