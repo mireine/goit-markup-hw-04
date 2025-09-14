@@ -107,9 +107,11 @@ img {
     margin-right: 0;
 }
 
-
 .header-navigation-list-title {
-    color: #404bbf;
+     color: #404bbf;
+}
+.header-navigation-list-title {
+   
     display: block;
     padding: 24px 0;
     font-weight: 500;
