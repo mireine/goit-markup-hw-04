@@ -109,7 +109,7 @@ img {
 
 
 .header-navigation-list-title {
-    color: #404bbf;
+    color: #2E2F42;
     display: block;
     padding: 24px 0;
     font-weight: 500;
@@ -141,9 +141,7 @@ img {
     color: #404BBF;
 }
 
-.header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title {
-    color: #2e2f42;
-}
+
 
 .header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title:hover,
 .header-navigation-list .header-navigation-list-item:first-child .header-navigation-list-title:focus {
